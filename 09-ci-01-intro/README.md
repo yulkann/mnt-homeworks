@@ -1,14 +1,5 @@
 # Домашнее задание к занятию "09.01 Жизненный цикл ПО"
 
-### Как оформить ДЗ?
-
-Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
-
-            [bug wf ](https://github.com/yulkann/mnt-homeworks/blob/master/09-ci-01-intro/Test1.xml)
-
-            [others wf](https://github.com/yulkann/mnt-homeworks/blob/master/09-ci-01-intro/Test2.xml)
-
-----------------------------------
 ## Подготовка к выполнению
 1. Получить бесплатную [JIRA](https://www.atlassian.com/ru/software/jira/free)
 2. Настроить её для своей "команды разработки"
@@ -36,8 +27,6 @@
 
 Если всё отработало в рамках ожидания - выгрузить схемы workflow для импорта в XML. Файлы с workflow приложить к решению задания.
 
----
+[bug wf](https://github.com/yulkann/mnt-homeworks/blob/master/09-ci-01-intro/Test1.xml)
 
-
-
----
+[others wf](https://github.com/yulkann/mnt-homeworks/blob/master/09-ci-01-intro/Test2.xml)
