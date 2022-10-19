@@ -69,10 +69,27 @@
 3. Проверяем директорию `~/.m2/repository/`, находим наш артефакт
 4. В ответе присылаем исправленный файл `pom.xml`
 
----
+            <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+              <modelVersion>4.0.0</modelVersion>
 
-### Как оформить ДЗ?
-
-Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
-
----
+              <groupId>com.netology.app</groupId>
+              <artifactId>simple-app</artifactId>
+              <version>1.0-SNAPSHOT</version>
+               <repositories>
+                <repository>
+                  <id>my-repo</id>
+                  <name>maven-public</name>
+                  <url>http://51.250.86.122:8081/repository/maven-public/</url>
+                </repository>
+              </repositories>
+              <dependencies>
+                 <dependency>
+                  <groupId>netology</groupId>
+                  <artifactId>java</artifactId>
+                  <version>8_282</version>
+                  <classifier>distrib</classifier>
+                  <type>tar.gz</type>
+                </dependency>
+              </dependencies>
+            </project>
