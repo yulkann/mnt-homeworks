@@ -4,7 +4,9 @@
 
 Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
 
-09-ci-01-intro/Test2.xml
+            [bug wf ](https://github.com/yulkann/mnt-homeworks/blob/master/09-ci-01-intro/Test1.xml)
+
+            [others wf](https://github.com/yulkann/mnt-homeworks/blob/master/09-ci-01-intro/Test2.xml)
 
 ----------------------------------
 ## Подготовка к выполнению
