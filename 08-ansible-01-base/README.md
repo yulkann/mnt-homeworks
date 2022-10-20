@@ -117,6 +117,6 @@
 
 12. Заполните `README.md` ответами на вопросы. Сделайте `git push` в ветку `master`. В ответе отправьте ссылку на ваш открытый репозиторий с изменённым `playbook` и заполненным `README.md`.
 
-                                    https://github.com/yulkann/devops-netology/tree/main/playbook
+https://github.com/yulkann/devops-netology/tree/main/playbook
 
 ---
